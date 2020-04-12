@@ -1,0 +1,6 @@
+C:\Users\Lucas\source\repos\TP1_Vivas\TP1_Vivas\bin\Debug\TP1_Vivas.dll
+C:\Users\Lucas\source\repos\TP1_Vivas\TP1_Vivas\bin\Debug\TP1_Vivas.pdb
+C:\Users\Lucas\source\repos\TP1_Vivas\TP1_Vivas\obj\Debug\TP1_Vivas.csprojAssemblyReference.cache
+C:\Users\Lucas\source\repos\TP1_Vivas\TP1_Vivas\obj\Debug\TP1_Vivas.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\source\repos\TP1_Vivas\TP1_Vivas\obj\Debug\TP1_Vivas.dll
+C:\Users\Lucas\source\repos\TP1_Vivas\TP1_Vivas\obj\Debug\TP1_Vivas.pdb
